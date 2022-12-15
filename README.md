@@ -1,5 +1,5 @@
-## otro.html
+## otro2.html
 <html>
-<head>Practica 3.4</head>
-<body>La Arboleda</body>
+<head>Practica 3.4<head/>
+<body>La Arboleda<body/>
 </html>
